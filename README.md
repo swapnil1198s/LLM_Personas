@@ -20,7 +20,7 @@ Additional Libraries: Axios for API requests, CORS for handling cross-origin req
 
 ## Navigate to the project directory and run:
 
-*npm install
+npm install
 
 
 ## Set up environment variables:
