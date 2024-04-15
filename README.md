@@ -48,3 +48,7 @@ This will start the React application on http://localhost:3000.
 Open your web browser to http://localhost:3000.
 Select a persona by clicking one of the persona options.
 Enter your message in the input box and click 'Send' to see the AI's response.
+
+https://github.com/swapnil1198s/LLM_Personas/assets/46658528/07c275ea-4e8e-4de1-94e5-a4a9037f3dc3
+
+
